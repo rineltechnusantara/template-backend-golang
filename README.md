@@ -1,6 +1,6 @@
-# service-betapa-antik
+# service-template
 
-Service backend untuk proyek Aplikasi-Jentik — modul `betapa-antik-service`.
+Service backend untuk proyek Template — modul `template-service`.
 
 ## Ringkasan
 
